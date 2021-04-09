@@ -1,7 +1,7 @@
 # Gngr_remote_keylogger
-(On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 10" operating system. It managed to circumvent the "Windows Defender" program.
+(On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 7, 8 and 10" operating system. It managed to circumvent the "Windows Defender" program.
 
-(Windows 7, 8, 10 gibi) Güncel Windows işletim sistemlerinde çalışan ve Defender gibi güvenlik programlarına yakalanmayan "Remote keylogger" programı yazılması hedeflenmiştir. 09/04/2021 tarihi itibarıyla gerçekleştirilmiştir. Güncellemelerle beraber zamanla bu durum değişebilir.
+(Windows 7, 8 ve 10 gibi) Güncel Windows işletim sistemlerinde çalışan ve Defender gibi güvenlik programlarına yakalanmayan "Remote keylogger" programı yazılması hedeflenmiştir. 09/04/2021 tarihi itibarıyla gerçekleştirilmiştir. Güncellemelerle beraber zamanla bu durum değişebilir.
 
 Kaynak kodun derlenmiş çalışır hali ile ilgili video https://www.youtube.com/watch?v=7zq-eTPeRbY adresinden izlenebilir.
 
