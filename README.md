@@ -22,7 +22,7 @@ Yüklemek için;
 "pyinstaller" kodu tek parça çalıştırılabilir dosya haline getirmek için kullanılacak
 
 
-2) Ayrıca kullanılacak e-mail adresinin smtp protocol ayarları yapılıp, çalışıp çalışmadığını kontrol etmeniz gereklidir. Bu kontrolü https://github.com/abdulkadir-gungor/python_smtp adresindeki python scripti ile yapabilirsiniz.
+2) Ayrıca kullanılacak e-mail adresinin smtp protocol ayarlarının yapılması, çalışıp çalışmadığının kontrol edilmesi gereklidir. E-maillin çalışma kontrolü https://github.com/abdulkadir-gungor/python_smtp adresindeki python scripti ile yapabilirsiniz.
 
 
 Örnek olması açısından Gmail için şu ayarların yapılması gereklidir.
