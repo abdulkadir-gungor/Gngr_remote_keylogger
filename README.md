@@ -152,4 +152,8 @@ Programın çalışması sırasında herhangi bir uyarı ile karşılaşılmadı
 ![a7](https://user-images.githubusercontent.com/71177413/114184348-66227d80-994d-11eb-83ce-51c56b5185c8.jpg)
 
 
+Yasal Uyarı
+----------------
+Eğitim amacıyla hazırlanmıştır. Olumsuz durumlarla karşılaşmamak için 
+Lütfen "Yasal_Uyarı.txt" dosyasını okuyunuz.
 
