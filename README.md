@@ -154,6 +154,9 @@ Programın çalışması sırasında herhangi bir uyarı ile karşılaşılmadı
 
 Yasal Uyarı
 ----------------
-Eğitim amacıyla hazırlanmıştır. Olumsuz durumlarla karşılaşmamak için 
-Lütfen "Yasal_Uyarı.txt" dosyasını okuyunuz.
+Eğitim amacıyla hazırlanmıştır. 
+
+Kullanıcıların bazı kullanım şekilleri suça sebep olabilir.
+
+Olumsuz durumlarla karşılaşmamak için "Yasal_Uyarı.txt" dosyasını okuyunuz.
 
